@@ -15,8 +15,8 @@ This script scans a LAN for active devices and open ports
 
 ## Features
 * Scans a LAN for active devices
-* Scans a LAN for a specified port
-* Scans a LAN for a range of specified ports
+* Scans a LAN or target_IP for a specified port
+* Scans a LAN or target_IP for a range of specified ports
 
 ## Languages
 * Python 3.9.7
