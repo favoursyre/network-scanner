@@ -1,4 +1,4 @@
-#I want to create a scritp that would help get return values from threaded function
+#I want to create a script that would help get the return values from a threaded function
 
 #Useful libraries that I would be working with
 from threading import Thread
