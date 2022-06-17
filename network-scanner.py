@@ -1,6 +1,6 @@
-#I want create a python script that allows me to scan all devices in a local area network for a specified open port
+#I want create a python script that allows me to scan all devices in a local area network for a active devices or open ports
 
-#Useful libraries that I would be working with
+#Useful libraries that I would be working with -->
 import os
 import sys
 import socket
